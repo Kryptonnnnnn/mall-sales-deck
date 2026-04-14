@@ -1,6 +1,5 @@
 import SectionWrapper from "../components/SectionWrapper";
 import { motion } from "framer-motion";
-import { fadeUp, staggerContainer } from "../utils/animations";
 
 const items = ["Adventure Park", "Roxy Cinemas", "Family Zones", "Events & Shows"];
 
