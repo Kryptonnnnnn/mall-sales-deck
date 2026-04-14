@@ -13,7 +13,7 @@ const AIInsights = () => {
     setResult("");
 
     try {
-      const res = await axios.post("http://localhost:5000/api/ai", {
+      const res = await axios.post("/api/ai", {
         category,
       });
 
