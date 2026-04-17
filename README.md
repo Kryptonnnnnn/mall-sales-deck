@@ -29,7 +29,6 @@ Inspired by Apple-style storytelling and luxury brand presentation.
 - 🧲 Smooth scroll storytelling
 - 🧠 AI-powered business insights (Groq)
 - 💎 Glassmorphism UI
-- 🎯 Scroll snapping navigation
 - ⚡ Cursor glow & micro interactions
 - 📊 Section indicators
 
